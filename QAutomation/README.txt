@@ -38,22 +38,3 @@ Tener en cuenta que cada vez que generamos un test debemos:
 
             setUID  (Para hacer pruebas paralelizadas)
 
-
-
-ZY223HSDT4 Moto G
-
-TA4490EDS7 Moto X2 - Eric
-
-
-2e436677 Sasung Boton central roto
-
-ZY223HSDT4 MOtoroal G Play
-
-PKG
-com.google.android.calculator
-ACTV
-com.android.calculator2.Calculator
-
-
-Android 5 < No reconoce todos los campos (aumentar el timeOut)
-Android 4.4 Anda bien
